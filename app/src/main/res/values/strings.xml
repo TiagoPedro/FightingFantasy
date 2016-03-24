@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Main activity-->
+    <string name="app_name">Fighting Fantasy</string>
+    <string name="start_button">New Adventure</string>
+    <string name="load_button">Load Adventure</string>
+    <string name="quit_button">Quit</string>
+
+    <!-- Choose adventure activity-->
+    <string name="action_settings">Settings</string>
+    <string name="create_hero_menu">Choose your adventure</string>
+
+    <!--Splashscreen activity-->
+    <string name="splashscreen">Adventure</string>
+    <string name="title_activity_create_hero">CreateHeroActivity</string>
+
+</resources>

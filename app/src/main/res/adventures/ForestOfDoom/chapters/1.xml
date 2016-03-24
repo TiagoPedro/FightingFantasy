@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Chapter id="1">
+    <Description>
+        The sand is white, night is dark, bring myself back to life.
+    </Description>
+    <ItemList>
+        <EquipmentItems>
+            <Sword skill="+1" />
+            <Chest stamina="+6" />
+        </EquipmentItems>
+        <PotionItems>
+            <Skill effect="max" />
+        </PotionItems>
+        <Monsters fightTogether="false">
+            <Monster name="Troll">
+                <Skill min="6" max="9" random="true" />
+                <Stamina min="8" max="12" random="true" />
+            </Monster>
+        </Monsters>
+    </ItemList>
+</Chapter>

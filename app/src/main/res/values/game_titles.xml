@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="titles">
+        <item>The Warlock of Firetop Mountain</item>
+        <item>The Citadel of Chaos</item>
+        <item>Forest of Doom</item>
+        <item>Starship Traveller</item>
+        <item>City of Thieves</item>
+        <item>Deathtrap Dungeon</item>
+        <item>Island of the Lizard King</item>
+        <item>Scorpion Swamp</item>
+        <item>Caverns of the Snow Witch</item>
+        <item>House of Hell</item>
+        <item>Talisman of Death</item>
+        <item>Space Assassin</item>
+        <item>Freeway Fighter</item>
+        <item>Temple of Terror</item>
+        <item>The Rings of Kether</item>
+        <item>Seas of Blood</item>
+        <item>Appointment with F.E.A.R.</item>
+        <item>Rebel Planet</item>
+        <item>Demons of the Deep</item>
+        <item>Sword of the Samurai</item>
+        <item>Trial of Champions</item>
+    </string-array>
+
+</resources>

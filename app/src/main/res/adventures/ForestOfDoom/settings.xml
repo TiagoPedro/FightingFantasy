@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Adventure title="Forest of Doom" id="3" >
+    <Hero>
+        <Attributes>
+            <Skill min="7" max="12" type="fixed" random="true" />
+            <Stamina min="14" max="24" type="fixed" random="true" />
+            <Luck min="7" max="12" random="true" />
+        </Attributes>
+        <Items>
+            <DescriptiveItems>
+                <EquipmentItems></EquipmentItems>
+                <PotionItems initQuantity="1" choosable="true">
+                    <Skill effect="max"/>
+                    <Stamina effect="half" />
+                    <Luck effect="+2" />
+                </PotionItems>
+                <Jewels></Jewels>
+            </DescriptiveItems>
+            <QuantityItems>
+                <Gold quantity="30" />
+                <Provisions quantity="10" />
+            </QuantityItems>
+        </Items>
+    </Hero>
+    <Chapters folderPath="forest_of_doom/chapters"/>
+</Adventure>
